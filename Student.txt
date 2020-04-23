@@ -1,0 +1,14 @@
+13
+Cioban,Java,8,111,10-08-2000
+Szakacs,Funda,7,112,12-11-1999
+Goga,Structuri,9,113,20-07-2000
+Ilyes,Java,10,114,08-05-1998
+Cioban,Funda,8,111,10-08-2000
+Goga,Java,8,113,20-07-2000
+Ilyes,Funda,7,114,08-05-1998
+Cioban,Structuri,10,111,10-08-2000
+Ilyes,Structuri,10,114,08-05-1998
+Urzica,Java,10,115,27-07-1999
+Kovacs,Java,9,116,13-04-2000
+Urzica,Funda,10,115,27-07-1999
+Kovacs,Funda,9,116,13-04-2000
